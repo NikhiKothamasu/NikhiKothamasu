@@ -57,9 +57,7 @@
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/> 
   </a> 
-  <a href="https://www.alteryx.com/" target="_blank" rel="noreferrer"> 
-    <img src="![image](https://github.com/user-attachments/assets/f467d6d1-3689-4be4-831a-5a98dde0af61)" alt="alteryx" width="40" height="40"/> 
-  </a> 
+ 
 </p>
   
 
